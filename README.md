@@ -1,8 +1,8 @@
 ## Olá!! Eu sou Brendo de Araújo
 
 
-- 🔭 Hoje estudo Front-End e pretendo trabalhar com isso tambem.
-- 🌱 Estudando MySQL, e aperfeiçoando sempre meus conhecimentos de Front-End.
+- 🔭 Hoje estudo Front-End e pretendo trabalhar na area de Desenvolvimento.
+- 🌱 Estudando MySQL, BootsTrap e aperfeiçoando sempre meus conhecimentos de Front-End.
 
 <div align="center">
   <a href="https://github.com/brendo1010">
