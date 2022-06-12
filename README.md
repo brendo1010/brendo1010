@@ -1,8 +1,7 @@
 ## Olá!! Eu sou Brendo de Araújo
 
 
-- 🔭 Hoje estudo Front-End e pretendo trabalhar na area de Desenvolvimento.
-- 🌱 Estudando BootsTrap e aperfeiçoando sempre meus conhecimentos de Front-End.
+- 🌱 Estudando JavaScript, CSS3, HTML5 e BootsTrap, aperfeiçoando sempre meu FrontEnd.
 
 <div align="center">
   <a href="https://github.com/brendo1010">
